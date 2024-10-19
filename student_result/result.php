@@ -53,11 +53,11 @@ function calculateResult($marks) {
 
 // Example input
 $studentMarks = [
-    "Math" => 100,
-    "Science" => 100,
-    "English" => 100,
-    "History" => 100,
-    "Geography" => 100
+    "Math" => 48,
+    "Science" => 48,
+    "English" => 48,
+    "History" => 44,
+    "Geography" => 44
 ];
 
 // Call the function to calculate result
